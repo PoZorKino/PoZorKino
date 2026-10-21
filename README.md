@@ -1,6 +1,6 @@
 ## donate
 
-if [xitter](https://github.com/Xittered/xitter) or anything else here is useful to you, crypto donations keep the main instance running.
+crypto donations keep the main instance running.
 send only the coin on the network listed for each address.
 
 | coin | network | address |
