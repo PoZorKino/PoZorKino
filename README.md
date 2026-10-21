@@ -1,6 +1,6 @@
 ## donate
 
-crypto donations keep the main instance running.
+crypto donations keeps me motivated and running, all donations would be appreciated
 send only the coin on the network listed for each address.
 
 | coin | network | address |
